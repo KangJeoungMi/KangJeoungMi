@@ -13,5 +13,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KangJeoungMi&show_icons=true&theme=solarized-light)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username={KangJeoungMi(string)} theme=solarized-light)](https://github.com/KangJeoungMi/github-readme-stats)
+![KangJeoungMi GitHub stats](https://github-readme-stats.vercel.app/api?username=KangJeoungMi&show_icons=true&theme=solarized-light)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KangJeoungMi&show_icons=true&theme=solarized-light)](https://github.com/KangJeoungMi/github-readme-stats)
