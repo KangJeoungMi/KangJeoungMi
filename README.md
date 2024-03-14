@@ -13,8 +13,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%KangJeoungMi&count_bg=%23FFDAC7&title_bg=%23FFADAD&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)
-
-출처: https://soo-vely-dev.tistory.com/159 [soo_vely의 개발로그:티스토리]
 ![KangJeoungMi GitHub stats](https://github-readme-stats.vercel.app/api?username=KangJeoungMi&show_icons=true&theme=solarized-light)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KangJeoungMi&show_icons=true&theme=solarized-light&layout=compact)](https://github.com/KangJeoungMi/github-readme-stats)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kkkk6600)](https://solved.ac/kkkk6600/)
