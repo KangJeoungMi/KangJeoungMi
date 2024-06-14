@@ -64,3 +64,6 @@ Here are some ideas to get you started:
 
 
 </div>
+
+
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
