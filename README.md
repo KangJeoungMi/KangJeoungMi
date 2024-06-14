@@ -25,9 +25,9 @@ Here are some ideas to get you started:
 
 
  <h3>📚 Tech Stack 📚</h3>
+ <br>
 	<p>✨ Languages ✨</p>	
-</div>
-<div align="center">
+ 
 	<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Conda-Forge&logoColor=white" />
 	<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white" />
 	<br>
@@ -38,17 +38,13 @@ Here are some ideas to get you started:
 	<br>
 	<img src="https://img.shields.io/badge/oracle-F80000?style=flat&logo=oracle&logoColor=white"> 
   <img src="https://img.shields.io/badge/mysql-4479A1?style=flate&logo=mysql&logoColor=white">
-<br>
-<div align=center>
+<br><br>
 	<p>🛠 Tools 🛠</p>
-</div>
-<div align=center>
 	<img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat&logo=VisualStudioCode&logoColor=white" />
   <img src="https://img.shields.io/badge/Eclipse%20IDE-2C2255?style=flat&logo=EclipseIDE&logoColor=white" />
 	<br>
 	<img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=white" />
-</div>
 
 <br>
  <h3>📚 Analysis 📚</h3>
