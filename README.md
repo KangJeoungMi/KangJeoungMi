@@ -35,10 +35,6 @@ Here are some ideas to get you started:
 	<br>
 	<img src="https://img.shields.io/badge/oracle-F80000?style=flat&logo=oracle&logoColor=white"> 
   <img src="https://img.shields.io/badge/mysql-4479A1?style=flate&logo=mysql&logoColor=white">
-	<br>
-	<img src="https://img.shields.io/badge/github-181717?style=flat&logo=github&logoColor=white">
-  <img src="https://img.shields.io/badge/git-F05032?style=flat&logo=git&logoColor=white">
-</div>
 <br>
 <div align=center>
 	<p>🛠 Tools 🛠</p>
