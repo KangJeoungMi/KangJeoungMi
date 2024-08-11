@@ -62,7 +62,7 @@ Here are some ideas to get you started:
 <br>
 
 [![Solved.ac
-프로필](http://mazassumnida.wtf/api/generate_badge?boj={kjm8090})](https://solved.ac/{kjm8090})
+프로필](http://mazassumnida.wtf/api/generate_badge?boj=kjm8090)](https://solved.ac/kjm8090)
 </div>
 
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
