@@ -60,6 +60,6 @@ Here are some ideas to get you started:
 
 <br>
 <br>
-[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=kjm8090)](https://solved.ac/kjm8090)​
+![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=kjm8090)(https://solved.ac/kjm8090)​
 
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
