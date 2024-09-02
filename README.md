@@ -26,11 +26,10 @@ Here are some ideas to get you started:
 <div align=center>
 	<br>
 <p>😎 About Me 😎</p>
-	<p>🌱 I’m currently learning ...  <b>Spring Boot</b></p>
-	<p>📫 How to reach me: ...  <b>kjm8090@naver.com</b></p>
+	<a href="mailto:kjm8090@naver.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat&logo=Gmail&logoColor=white&link=kjm8090@naver.com"/></a>
+ 	<a href=[https://lily0929.tistory.com/4]> <img src="https://img.shields.io/badge/Tistory-000000?style=flat&logo=Tistory&logoColor=white&link=[https://iieunji023.tistory.com/](https://lily0929.tistory.com/4)"> </a>
   <br>
-
-
+   
  <h3>📚 Tech Stack 📚</h3> 
 	<p>✨ Languages ✨</p>	
 	<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Conda-Forge&logoColor=white" />
