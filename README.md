@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 	<br>
 <p>😎 About Me 😎</p>
 	<a href="mailto:kjm8090@naver.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat&logo=Gmail&logoColor=white&link=kjm8090@naver.com"/></a>
- 	<a href=[https://lily0929.tistory.com/4]> <img src="https://img.shields.io/badge/Tistory-000000?style=flat&logo=Tistory&logoColor=white&link=[https://iieunji023.tistory.com/](https://lily0929.tistory.com/4)"> </a>
+ 	<a href="https://lily0929.tistory.com/4"> <img src="https://img.shields.io/badge/Tistory-000000?style=flat&logo=Tistory&logoColor=white&link=[https://iieunji023.tistory.com/](https://lily0929.tistory.com/4)"> </a>
   <br>
    
  <h3>📚 Tech Stack 📚</h3> 
