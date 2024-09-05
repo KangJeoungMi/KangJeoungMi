@@ -60,5 +60,6 @@ Here are some ideas to get you started:
 ![KangJeoungMi GitHub stats](https://github-readme-stats.vercel.app/api?username=KangJeoungMi&show_icons=true&theme=solarized-light)
 
 <br>
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj={handle})](https://solved.ac/{handle})
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kjm8090)](https://solved.ac/kjm8090/)
+
