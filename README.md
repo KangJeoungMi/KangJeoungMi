@@ -24,8 +24,14 @@ Here are some ideas to get you started:
 
 
 <div align=center>
-	<br>
+	
+<br>
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/mini/generate_badge?boj=kjm8090)](https://solved.ac/kjm8090)
+
 <p>😎 About Me 😎</p>
+
+
 	<a href="mailto:kjm8090@naver.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat&logo=Gmail&logoColor=white&link=kjm8090@naver.com"/></a>
  	<a href="https://lily0929.tistory.com"> <img src="https://img.shields.io/badge/Tistory-000000?style=flat&logo=Tistory&logoColor=white&link=[https://iieunji023.tistory.com/](https://lily0929.tistory.com/4)"> </a>
   <br>
@@ -60,6 +66,4 @@ Here are some ideas to get you started:
 ![KangJeoungMi GitHub stats](https://github-readme-stats.vercel.app/api?username=KangJeoungMi&show_icons=true&theme=solarized-light)
 
 <br>
-
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kjm8090)](https://solved.ac/kjm8090/)
 
