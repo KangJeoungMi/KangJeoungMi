@@ -12,6 +12,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
+[![Solved.ac Profile](http://mazassumnida.wtf/api/mini/generate_badge?boj=kjm8090)](https://solved.ac/kjm8090)
+
+
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KangJeoungMi&show_icons=true&theme=solarized-light&layout=compact)](https://github.com/KangJeoungMi/github-readme-stats) 
 -->
 <div align=center>
@@ -27,7 +31,6 @@ Here are some ideas to get you started:
 	
 <br>
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/mini/generate_badge?boj=kjm8090)](https://solved.ac/kjm8090)
 
  <h3>😎 About Me 😎</h3>
 	<a href="mailto:kjm8090@naver.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat&logo=Gmail&logoColor=white&link=kjm8090@naver.com"/></a>
